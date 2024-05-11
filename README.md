@@ -6,6 +6,9 @@ This is a Programming Documentation project developed for the Responsive Web Des
 
 The Programming Documentation project serves as a centralized resource for programmers, offering brief overviews of different programming languages. It provides essential information about each language, including syntax, usage, and key features.
 
+![image](https://github.com/joaogalimberti/TECHNICAL-DOCUMENTATION-PAGE/assets/106310095/0cfe009b-c1ee-4b92-8f3a-d9fc79614a24)
+
+
 ## 📚 Features
 
 - **Language Summaries:** The page contains concise summaries of multiple programming languages, allowing users to quickly grasp the basics of each language.
